@@ -4,18 +4,11 @@ This RESTful API handles student data with clean architecture, modular code, and
 
 🚀 Tech Stack
 
-Java 17+
-Spring Boot
-Spring Data JPA
-MySQL
-RESTful API
+Java 17+, Spring Boot, Spring Data JPA, MySQL, RESTful API
 
 📌 Features
 
-➕ Create new student records.
-📖 Read all students / get student by ID.
-📝 Update student information.
-❌ Delete student entries.
+➕ Create new student records, 📖 Read all students / get student by ID, 📝 Update student information, ❌ Delete student entries.
 
 🧠 What I Learned
 
